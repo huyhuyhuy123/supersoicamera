@@ -1,0 +1,83 @@
+{#=====Get variable : Config Select Block on header=====#}
+{% set hidden_headercenter = soconfig.get_settings('toppanel_type') =='2'? 'hidden-compact' : '' %}
+{% set hidden_headerbottom = soconfig.get_settings('toppanel_type') =='1'? 'hidden-compact' : '' %}
+
+<header id="header" class=" variant typeheader-{{ typeheader ? typeheader : '1'}}">
+	{#======	HEADER TOP	=======#}
+	<div class="header-top hidden-compact">
+		<div class="container">
+			<div class="header-top-left pull-left hidden-xs">
+				{% if header_block %}
+					{{ header_block }}
+				{% endif %}
+			</div>
+			<div class="header-top-right collapsed-block pull-right">
+				{% if soconfig.get_settings('lang_status') %}
+				<ul class="top-link list-inline lang-curr">
+					{% if soconfig.get_settings('welcome_message_status') %}
+						<li class="hidden-sm hidden-xs welcome-msg">
+							{% if soconfig.get_settings('welcome_message') is not empty %}
+								{{ soconfig.decode_entities( soconfig.get_settings('welcome_message') ) }}
+							{% endif %}
+						</li>
+					{% endif %}
+					{% if logged %}
+						<li class="log logout"><i class="fa fa-unlock"></i> <a class="link-lg" href="{{ logout }} "> {{ text_logout }} </a></li>
+					{% else %}
+						<li class="log login"><a class="link-lg" href="{{ login }} ">{{ text_login }} </a> </li>
+						<li class="log register"> <a href="{{ register }}">{{ text_register }}</a></li>
+					{% endif %}
+					{% if currency %}<li class="currency"> {{ currency }}  </li> {% endif %}
+					{% if language %} <li class="language">{{ language }} </li>	{% endif %}
+				</ul>
+				{% endif %}
+
+
+			</div>
+		</div>
+	</div>
+
+	{#======	HEADER CENTER	=======#}
+	<div class="header-middle {{hidden_headercenter}}">
+		<div class="container">
+			<div class="row">
+				<div class="navbar-logo col-lg-3 col-md-3 col-sm-12 col-xs-12">
+					<div class="logo">
+				   		{{soconfig.get_logo()}}
+				   	</div>
+				</div>
+
+				<div class="bottom2 col-lg-6 col-md-7 col-sm-8 col-xs-10">
+					<div class="search-header-w">
+							{{ search_block }}
+					</div>
+				</div>
+				<div class="middle-right col-lg-3 col-md-2 col-sm-4 col-xs-2">
+					<div class="shopping_cart">
+					 	{{ cart }}
+					</div>
+					{% if soconfig.get_settings('phone_status') and soconfig.get_settings('contact_number') %}
+					<div class="telephone hidden-xs hidden-sm hidden-md" >
+						{{ soconfig.decode_entities( soconfig.get_settings('contact_number') ) }}
+					</div>
+					{% endif %}
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="header-bottom {{hidden_headerbottom}}">
+		<div class="container">
+			<div class="row">
+				<div class="bottom1 menu-vertical col-lg-3 col-md-3 col-sm-3">
+					{{ content_menu2 }}
+				</div>
+				<div class="main-menu col-lg-9 col-md-9 col-sm-9">
+					{{ content_menu1 }}
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+</header>
