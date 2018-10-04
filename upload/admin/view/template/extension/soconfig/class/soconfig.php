@@ -203,7 +203,7 @@ class Soconfig{
 	public function get_logo(){
 
 		$config_logo = $this->oc_config->get('config_logo');
-		$href_home = $this->url->link('common/home');
+		$href_home = '/';//$this->url->link('common/home');
 
 		$titleLogo = $this->oc_config->get('config_name');
 		if ($this->request->server['HTTPS']) $server = $this->oc_config->get('config_ssl');

@@ -22,10 +22,10 @@
 						</li>
 					{% endif %}
 					{% if logged %}
-						<li class="log logout"><i class="fa fa-unlock"></i> <a class="link-lg" href="{{ logout }} "> {{ text_logout }} </a></li>
+						<li class="log logout"><i class="fa fa-unlock"></i> <a class="link-lg" href="/logout"> {{ text_logout }} </a></li>
 					{% else %}
-						<li class="log login"><a class="link-lg" href="{{ login }} ">{{ text_login }} </a> </li>
-						<li class="log register"> <a href="{{ register }}">{{ text_register }}</a></li>
+						<li class="log login"><a class="link-lg" href="/login">{{ text_login }} </a> </li>
+						<li class="log register"> <a href="/register">{{ text_register }}</a></li>
 					{% endif %}
 					{% if currency %}<li class="currency"> {{ currency }}  </li> {% endif %}
 					{% if language %} <li class="language">{{ language }} </li>	{% endif %}
