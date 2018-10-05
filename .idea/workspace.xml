@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="693bc6be-6542-43e5-94ab-e3dde30ca2a1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/upload/catalog/view/theme/so-megastore/template/common/footer.twig" beforeDir="false" afterPath="$PROJECT_DIR$/upload/catalog/view/theme/so-megastore/template/common/footer.twig" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,10 +25,9 @@
       <file leaf-file-name="footer.twig" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/upload/catalog/view/theme/so-megastore/template/common/footer.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="85" column="60" selection-start-line="85" selection-start-column="60" selection-end-line="85" selection-end-column="60" />
+            <state relative-caret-position="494">
+              <caret line="104" column="27" lean-forward="true" selection-start-line="104" selection-start-column="27" selection-end-line="104" selection-end-column="27" />
               <folding>
-                <element signature="n#style#0;n#button#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#1;n#button#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -249,16 +247,15 @@
       <workItem from="1538499894451" duration="1354000" />
       <workItem from="1538579001091" duration="1751000" />
       <workItem from="1538660682611" duration="9050000" />
-      <workItem from="1538754344119" duration="3766000" />
+      <workItem from="1538754344119" duration="5025000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18637000" />
+    <option name="totallyTimeSpent" value="19896000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.36845636" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -592,10 +589,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/upload/catalog/view/theme/so-megastore/template/common/footer.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="85" column="60" selection-start-line="85" selection-start-column="60" selection-end-line="85" selection-end-column="60" />
+        <state relative-caret-position="494">
+          <caret line="104" column="27" lean-forward="true" selection-start-line="104" selection-start-column="27" selection-end-line="104" selection-end-column="27" />
           <folding>
-            <element signature="n#style#0;n#button#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#1;n#button#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
