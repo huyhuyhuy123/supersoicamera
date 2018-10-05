@@ -5,7 +5,7 @@
 {% endif %}
 
 
-	
+
 {# =========== Show BackToTop==============#}
 
 {% if soconfig.get_settings('social_sidebar')  %}
@@ -16,7 +16,7 @@
 	{% endif %}
 	<section class="social-widgets visible-lg {{social_sidebar}} ">
 		<ul class="items">
-			{% if soconfig.get_settings('social_fb_status') %} 
+			{% if soconfig.get_settings('social_fb_status') %}
 			<li class="item item-01 facebook">
 				<a href="catalog/view/theme/{{ theme_directory }}/template/social/facebook.php?account_fb={{soconfig.get_settings('facebook')}} " class="tab-icon"><span class="fa fa-facebook"></span></a>
 				<div class="tab-content">
@@ -26,9 +26,9 @@
 					</div>
 				</div>
 			</li>
-			{% endif %} 
+			{% endif %}
 
-			{% if soconfig.get_settings('social_twitter_status') %} 
+			{% if soconfig.get_settings('social_twitter_status') %}
 			<li class="item item-02 twitter">
 				<a href="catalog/view/theme/{{ theme_directory }}/template/social/twitter.php?account_twitter={{ soconfig.get_settings('twitter')}} " class="tab-icon"><span class="fa fa-twitter"></span></a>
 				<div class="tab-content">
@@ -38,25 +38,106 @@
 					</div>
 				</div>
 			</li>
-			{% endif %} 
+			{% endif %}
 
-			{% if soconfig.get_settings('social_custom_status') %} 
+			{% if soconfig.get_settings('social_custom_status') %}
 			<li class="item item-03 youtube">
 				<div class="tab-icon"><span class="fa fa-youtube"></span></div>
 				<div class="tab-content">
 					<div class="loading">
 						{% if soconfig.get_settings('video_code') %}
 								{{ soconfig.decode_entities( soconfig.get_settings('video_code') ) }}
-						{% endif %} 
+						{% endif %}
 					</div>
 				</div>
 			</li>
-			{% endif %} 
+			{% endif %}
 		</ul>
 	</section>
-	
-{% endif %} 
+
+{% endif %}
 
 </div>
+
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId      : '1899217913703458',
+            xfbml      : true,
+            version    : 'v2.6'
+        });
+    };
+
+    (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<div id="facebook-inbox">
+	<button class="facebook-inbox-tab" style="display: block; background-color: rgb(51, 102, 204); border-color: rgb(121, 121, 121); color: rgb(255, 255, 255);">
+		<span class="facebook-inbox-tab-icon"><img src="https://facebookinbox.bizwebapps.vn//Content/Images/fb-icon-2.png"></span>
+		<span class="facebook-inbox-tab-title" style="font-weight: bold;">Chat với chúng tôi</span>
+	</button>
+	<div id="facebook-inbox-frame" class="fb-page"
+		 data-href="https://www.facebook.com/Supersoicamera/"
+		 data-tabs="messages"
+		 data-width="250"
+		 data-height="300"
+		 data-small-header="true">
+		<div class="fb-xfbml-parse-ignore">
+			<blockquote></blockquote>
+		</div>
+	</div>
+</div>
+<style>
+	#facebook-inbox {
+		position: fixed;
+		bottom: 0px;
+		z-index: 110000;
+		text-align: center;
+		display: block;
+		right: 5px;
+	}
+	#facebook-inbox-frame {
+		display: none;
+		width: 100%;
+		min-height: 200px;
+		overflow: hidden;
+		position: relative;
+		background-color: #f5f5f5;
+	}
+	.facebook-inbox-tab {
+		top: 0px;
+		bottom: 0px;
+		margin: -40px 0px 0px 0px;
+		position: relative;
+		height: 40px;
+		width: 250px;
+		border: 1px solid;
+		border-radius: 0px 0px 0px 0px;
+		text-align: center;
+		background-color: #19a3dd;
+		color: #ffffff;
+	}
+	.facebook-inbox-tab-icon {
+		float: left;
+	}
+	.facebook-inbox-tab-title {
+		float: left;
+		margin-left: 10px;
+		line-height: 25px;
+	}
+</style>
+<script>
+	$(document).ready(function() {
+	    $('#facebook-inbox').click(function() {
+			$('#facebook-inbox-frame').toggle();
+		});
+	});
+</script>
 </body>
 </html>
