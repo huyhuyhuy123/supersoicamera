@@ -1,4 +1,4 @@
-<?php 
+<?php
 class ModelExtensionModuleSofiltershopby extends Model {
 	public function getAllOptions($product_id){
 		$product_id = implode(",",array_map('intval',$product_id));
@@ -39,10 +39,10 @@ class ModelExtensionModuleSofiltershopby extends Model {
 				'att_sort'				=> $item['attribute_sort']
 			);
 		}
-		
+
 		return $option_data;
 	}
-	
+
 	public function getAllAttributes($product_id){
 		$product_id = implode(",",array_map('intval',$product_id));
 		$sql = "SELECT DISTINCT pa.attribute_id, pa.language_id AS att_language_id, ad.name AS attribute_name, agd.name AS att_group_name, agd.attribute_group_id AS attribute_group_id, a.sort_order AS attribute_sort FROM ".DB_PREFIX."product_attribute AS pa LEFT JOIN ".DB_PREFIX."attribute AS a ON pa.attribute_id = a.attribute_id LEFT JOIN ".DB_PREFIX."attribute_description AS ad ON a.attribute_id = ad.attribute_id LEFT JOIN ".DB_PREFIX."attribute_group AS ag ON a.attribute_group_id = ag.attribute_group_id LEFT JOIN ".DB_PREFIX."attribute_group_description AS agd ON ag.attribute_group_id = agd.attribute_group_id WHERE pa.language_id = '" . (int)$this->config->get('config_language_id') . "' AND pa.product_id IN (".$product_id.") AND ad.language_id = '" . (int)$this->config->get('config_language_id') . "' AND agd.language_id = '" . (int)$this->config->get('config_language_id') . "' ORDER BY ag.sort_order";
@@ -73,14 +73,14 @@ class ModelExtensionModuleSofiltershopby extends Model {
 
 		return $attribute_data;
 	}
-	
+
 	public function getProducts($opt_value_id,$att_value_id,$manu_value_id,$text_search,$minPrice,$maxPrice,$subcate_value_id,$category_id,$condition_search){
 		$sql = "SELECT DISTINCT p.product_id
 				FROM ".DB_PREFIX."product AS p 
 				LEFT JOIN ".DB_PREFIX."product_description AS pd ON p.product_id = pd.product_id 
-				LEFT JOIN ".DB_PREFIX."product_to_category AS pc ON p.product_id = pc.product_id";		
+				LEFT JOIN ".DB_PREFIX."product_to_category AS pc ON p.product_id = pc.product_id";
 		$sql .= "\n LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id)";
-		
+
 		if($opt_value_id != "" && count($opt_value_id) > 0)
 		{
 			if (isset($condition_search) && !empty($condition_search) && $condition_search == 'OR') {
@@ -113,7 +113,7 @@ class ModelExtensionModuleSofiltershopby extends Model {
 				$sql .= "\nEXISTS (SELECT * FROM `".DB_PREFIX."product_attribute` pa WHERE p.product_id = pa.product_id AND pa.attribute_id = ".$avid." ) AND ";
 			}
 		}
-		if($manu_value_id != "" && count($manu_value_id) > 0)
+		if($manu_value_id != "")
 		{
 			$sql .= "\np.manufacturer_id IN (".$manu_value_id.") AND";
 		}
@@ -126,7 +126,7 @@ class ModelExtensionModuleSofiltershopby extends Model {
 		{
 			$category_id = $subcate_value_id;
 		}
-			
+
 		$sql .= "\n pc.category_id = '".$category_id."'";
 		// echo $sql;
 		$query = $this->db->query($sql);
@@ -145,7 +145,7 @@ class ModelExtensionModuleSofiltershopby extends Model {
 					}else{
 						$currencies = $result['symbol_right'];
 					}
-					
+
 				}
 			}
 		}
@@ -157,7 +157,7 @@ class ModelExtensionModuleSofiltershopby extends Model {
 			if ((float)$data['special']) {
 				$price = $this->tax->calculate($data['special'], $data['tax_class_id'], $this->config->get('config_tax'));
 			}
-			
+
 			$price = $this->currency->format($price, $this->session->data['currency']);
 			if ($this->language->get('decimal_point') == ',') {
 				$price = trim(str_replace(',', '.', $price));
@@ -168,7 +168,7 @@ class ModelExtensionModuleSofiltershopby extends Model {
 			$price = trim(str_replace($currencies, '', $price));
 
 			$data['price_soFilter'] = $price;
-			
+
 			if($subcate_value_id == "")
 			{
 				if($minPrice != "" && round($price) < $minPrice) continue;
@@ -181,7 +181,7 @@ class ModelExtensionModuleSofiltershopby extends Model {
 		}
 		return $product_data;
 	}
-	
+
 	public function getAllProducts($category_id){
 		$sql = "SELECT DISTINCT p.product_id FROM ".DB_PREFIX."product AS p LEFT JOIN ".DB_PREFIX."product_description AS pd ON p.product_id = pd.product_id LEFT JOIN ".DB_PREFIX."product_to_category AS pc ON p.product_id = pc.product_id LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id)";
 		$sql .= " WHERE";
@@ -201,7 +201,7 @@ class ModelExtensionModuleSofiltershopby extends Model {
 					}else{
 						$currencies = $result['symbol_right'];
 					}
-					
+
 				}
 			}
 		}
@@ -222,14 +222,14 @@ class ModelExtensionModuleSofiltershopby extends Model {
 				$price = trim(str_replace(',', '', $price));
 			}
 			$price = trim(str_replace($currencies, '', $price));
-			
+
 			$data['price_soFilter'] = $price;
 
 			$product_data[] = $data;
 		}
 		return $product_data;
 	}
-	
+
 	public function getProductsOrderByPridce($product_arr){
 		foreach($product_arr as $result)
 		{
@@ -241,7 +241,7 @@ class ModelExtensionModuleSofiltershopby extends Model {
 			$data['price_soFilter'] = $price;
 			$product_data[] = $data;
 		}
-		
+
 		return $product_data;
 	}
 
@@ -290,7 +290,7 @@ class ModelExtensionModuleSofiltershopby extends Model {
 
 		return $query->rows;
 	}
-	
+
 	public function getOptions(){
 		$type = "'radio','checkbox','select','image'";
 		$sql = 'SELECT o.*, od.name AS option_name FROM '.DB_PREFIX.'option AS o LEFT JOIN '.DB_PREFIX.'option_description AS od ON o.option_id = od.option_id WHERE o.type IN ('.$type.') AND od.language_id = "'.(int)$this->config->get('config_language_id').'" ORDER BY o.sort_order' ;
@@ -332,7 +332,7 @@ class ModelExtensionModuleSofiltershopby extends Model {
 		$manu_data = $this->array_sort_by_column($manu_data, 'att_sort');
 		return $manu_data;
 	}
-	
+
 	public function getManufacturers($data = array()) {
 		$sql = "SELECT * FROM " . DB_PREFIX . "manufacturer";
 
@@ -408,7 +408,7 @@ class ModelExtensionModuleSofiltershopby extends Model {
 		}
 		return $subcategory_data;
 	}
-	
+
 	public function convertNameToParam($string) {
 		//Lower case everything
 		$string = strtolower($string);
@@ -427,7 +427,7 @@ class ModelExtensionModuleSofiltershopby extends Model {
 			foreach ($arr as $key=> $row) {
 				$sort_col[$key] = $arr[$key][$col];
 			}
-			
+
 			array_multisort($sort_col, $dir, $arr);
 
 			return $arr;

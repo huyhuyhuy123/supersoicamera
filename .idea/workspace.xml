@@ -2,267 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="693bc6be-6542-43e5-94ab-e3dde30ca2a1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/upload/catalog/controller/common/seo_url.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/00/000f37cea42488aed4d9123443bb37ddba5173b60337375478bc70832b4eb8d9.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/01/0121e27e73ef7e6c734a6958641dd59c9385687afe9bf075e1d17dd451d16ca0.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/02/0285ae50a991372d86f7c71bdb4f40d73adf24d017904e25f18da5abd621df61.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/03/03766d51f954f4b10c3c46d52df783254e01eef16abfb5c4b04e656283203f28.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/04/044436249d2a2cf11d8cd96757fee6325a37347d1507e6f6d857909e0a337f05.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/06/0614c0709a8f542e130d46a00844263519ed4d2698356456a8915c9b86b8d8a2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/06/062e3402a511464d2f66accf0742b5fadc8e29703540bb838b44dfa8ec7da591.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/07/07bdd7a896de5fd366745849b54d0b6f587196ec0334be82c24dbcba6cb33dd0.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/08/0889362a475b30328b4a23360726a8337e3211d33f1d54dbee487502b05cf035.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/09/09ea8e9f697e9dee509a11cc8d00d844720c5b0381c33b9a7b892517c58725f0.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/0c/0cbc912b23af56efa123c59128bd4f11fb9f55ab5e5c9dc04c71fbfd45840812.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/0c/0cee854e04ca478b70ce69352223903f0d2b2aefe8d66a11dd985d3cf7a74181.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/0c/0cf97c23ceddfc567da7a2f035f160bc67a40e313e5160e3823a132924e36bc9.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/0d/0d11803699b64aa426f47b879c67b8137089be50fab8d629bdbc16a017f41489.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/0d/0d62085c36616d9e0dc6c1302c3fd8c42ccf26d12ad56b42bcff4dc194a57928.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/0d/0deb9168dcdc5a540069d920b53214c15155fac1dc5e08bdfca1ef90181c874d.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/0e/0e898246d7630276baeb7eb66e79d64b03d416fab0a5369b6c925e7ed4e17f2e.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/10/10535def2c571448be54a66e897bbd9204d9bbae132e5ff0a9d04a1f75da9d10.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/11/117d7f71aa978e051382902a4c9934af03600db3f07264a1348fe0cccbdd6191.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/12/126b2651c4e9920ad3118f41cb4e70f1e2fc85bd751bf639d8babdd63f82137a.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/13/138af9597ba6faba29f29e31827bff60e7fc2f89a281d759bee6fc5efe54707c.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/15/150b1c2eb5cd706d67c8f64d7539b9e043b7b1a47a5a0d79a101e1fa0beffea4.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/16/1675cc7b7f098fb7231787cae991057f08a3bb6d33b52eecea47b057ce0d9c85.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/17/17bf977930efbcd10aeeb46da3b6329155c8d66378ecaa61115239dca0b83a9f.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/18/1875c78a5921a419d278f9073eb55922036094422d8748870af20a1a98192d5d.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/18/1888455b322951fe0ec997f2378886586ccb87b01e5855ef6952cf96b1d7d69f.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/18/18d9d7cdeb53a154e60bf20695716fae950dcaac02850614c9234a67126accee.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/19/19a760b1950385e0460a099fb97b45a5b56ab03e4bf5111c0a4559e2d2a1a07d.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/1c/1c22650c56f2268ff984ad8a25a5e8ec6497458f4f9573829e77126e4462f10a.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/1c/1cbd3571d4a5a7e180379b3ea5f8e21a2ed0fd1be878ed510106116b48d53f67.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/1d/1ddb85fe9c1f82338c627b1fdc6b3697ae1309da4329a5103166db2deab2d11a.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/1e/1e0f469a20766611865b1f90ec5e907315d47de1d8f96fbdfbc69ea687c93878.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/1f/1fa6e2f645808ca2f6e34ba08ceed5a47eb7d1434ecb54f0161e265f82888c6f.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/20/20460b58f00bd179c5cc3e4fa229eaae440a6a841df813e99a9ac2a057d800f9.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/23/23290e4a485cfe8a60fdb0956dfcb29bd65562f5a679521f6cabdd0e80ed9ea3.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/23/23cf56cc186025cd74d24d590edab9e525c765d7eba68724ef1e3f5db04b65d6.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/24/240820a0a2c14f69fed843e8001da826789981f5faab7961b64b27c66ba7a75c.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/24/24c0cc6c8d86ec959608dcfbfdc34149a3c69758908230181d3c0f5f2b95bf3f.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/26/26c7c5f0222b3d5d3dcc7599caa95f93166b9acd6bcd2014e8247bed020cb6cd.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/27/273abb82218031479de14b5815c1d4c242fb419f870d1119a7f234bb58b0ef4b.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/27/278c6c9d76f77d860538d37ddfcfebef458838c49eedb2b289064428ac9bb5c7.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/27/27ea12dbb83dc76b902f2e8702eb834d978a4239754a0f41399de36914368a74.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/2a/2abb0a608120a3c8c9a4531dc41534de8bd8aa636c389aaa9f02b6562c4964c3.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/2d/2d8f135d9330da4a79c67e832eaa676a7176ec75c027775c1af66ecabf403808.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/2e/2e40f7e807ac1ceafa4f79d7ca5703997dc306ab9276e76c60074041e200b1dc.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/2f/2f2e953adfd6ca616ecf0f9b3c813c442a51ca2987881085b672d7c7cf6a164c.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/30/30270b93ef1a0e113c7b08c59b4b913e763732287792b31c28b7bb4e32b6055b.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/32/329848a04132f7da8839216921bb055bd3c908eaef892b49cd1a8581869517f5.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/33/33a6fdd500860858871e16e4bceb9a8921059e413875facd77c724c31d19b590.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/35/3505b7516577c49478184ffe561f504a6d840afc9bdaa754accac46c31037fe0.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/35/3519c0cb82a6cb5238afd3db6bb14a39408e7fd379eda4b0fd494fe8807434b3.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/35/3578c24d90bbfdb99965fcb8c8e823f354f5aa3a435fa65b384d45a91571d48b.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/36/365e66aa7b4d91e8382e6e1621dd64cc22d595533306818dddf38c601382e43b.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/36/36a1e7776a58cf0233a37f388c8694f351e19379c44b24c210b8f2dba422114a.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/37/371795ee29915f532e673d01bfa8089053a4a6198b19b869d0ad5c7cf3994e8b.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/37/37d157e86ed1d77a811f2d04d6d83f4fa5ce9aba03836660ae7b8bfaef952aa7.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/38/38c714b70554b8886f4aea3dd672408cf2c6b52ee104e660a56bfd7e8e846e72.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/3a/3a1ea3973b57fdf59ee9a16ab1741c6f6c20740a30fe8754041f580956c7678e.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/3a/3ad595007731d0d43e98fe8c066f4947ca16ec6ff52a0141c3dbab57c190c6a4.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/3b/3bc0a77c719469af0aae43bc9af85ea0724238d85ce3c0badbc4595840a9b5f5.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/3c/3ccc460f79fb5b797f9916f30bf06a08cd74430fc37f964c43991ca0b9c6181c.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/3d/3db7d215d3540a5507541247435d3be99adca60ac51fd51aaca3c7b77648e555.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/3e/3e52e7a757edbbec1c4bf7d010e34347fe0ee64fa43f680c7a3db3351d789c27.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/3f/3f6627d470543cdde0b46e34151a2918f2f0fe3a3aff87819e1b3bf7fa599384.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/3f/3f91ef4a941dc35814b0c6cb036fd9c1d59a4a54fb8cab3f14d81ab6ba1c6727.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/40/406601ddd33fcb8c7aff2d377b0aa8ba8e6aa3124fbce95fc9c8953dc91237c5.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/42/422f2fd05bac8b4fa7831b4dba04929d1446e9f3301b7fd80965022735e1e7f8.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/43/43790f9efc838bba0a286c5ac4f45ba144821f86820661faa0511ff2ffa32627.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/43/43a3d350fab826112596df9833c62151e1958d1b8e3ccb0ff36f73f836692703.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/44/441d46dd9c33b62dc202aad0b5be26d4675e9b6e22c9f57d1df93c8dbf7e5b76.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/47/472561f7f5f598e9e9e63336dc9995944a9422e69adb66f8952881d95f68ccc1.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/47/474008a69a9974863efb2ace382a30e66c8d0175b71b9950ddc1b357a3535733.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/48/4874c50e7c2d4c70dacbb382adb61f1efa10231c00e0f2d1e2670254ec26fb21.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/48/48cd15049a4d1b20708f715b9b4fb266b2bdcd1324b2149b47e9a51f8e45aac9.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/4a/4aa01045b4a0a8842a0273918aeaf8be2e85eebfec4edea6ea1f9cfc63d37c79.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/4e/4efc7db7754e9407e64eebf56a4ba945ade6380c079ac70ef1198df7187cd801.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/4f/4fce3d988e98e8e44601de960824d53d083c63f26918ff86e2d072bf134f659c.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/52/52459456cffae374db5be8a94daf23daea3084aaf9413375c760e2f93e9c502b.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/53/53b91b0dfcd18aa7558622e10d1ebbd38676ee69d4ac79936f00f32c09abdc4f.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/55/557b108699f5e20d1a34b7ebaccaa28fbd3cffdc729237fd26a9b499e7c196d5.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/57/5721c762e1e5c41dfc9589c07d79836178ea7429f41bb800c4ca6ac168fa1c52.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/59/5939c933dee23b3d80b66db4ce138245c4d1646fbe922d841e9e1511f0efcb5d.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/5a/5ab368d7cf0fcf53e8cba02c27e8f699846c3e5654397973a924a7adda319c66.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/5c/5c5b6200fb0788de612559bb814f81523b4ac53d8846120e42735be3cc80c6e4.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/5c/5c6c1bee03d45aaa97fcf9ce3f83704a160682facb0cbd3d7a51c110502c03f5.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/5d/5d0f95f43f7d7ae3f69db150e5891b6e56858528f4dfca4383ee120df51178c2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/5e/5e3866dd8d257e1be2de49a9d07a70895b3bc3fbcd3daeb9a7b7e78c58c5eaaa.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/5e/5e6111092b59adcd402b76b3e613503814c6b5396e98124d422141851b775e73.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/60/606c4d150267ffba17eed9baf4315c951f265a24d72ed7e3401390d2b441b070.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/61/612c6405ecfe3517387ce74ad9d91238529d7193f60910c9b6bc6c6755fd6260.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/61/61eb72c0d8c04c0dc0fcb18f9db1f92aaabe19f73421d0c3472f964720c01e86.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/64/64aaed8b1aef1dcdc143af10dd50c6f7eab4a3480aca8e010e04d2be7e4f7cb5.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/65/659582626eaa89a22984cf1480ad4d53d1d6c38f691be1ae372dbb21a8175156.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/66/661f8bb512160161031bcf68d1fc2dc4ab34e0803a82d0d635e80a6e1f7e6a65.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/69/697bc0df1f188532d350655d289051d54d215fc760f4bd222645eb049a5c613d.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/69/69b3c2ebba45db5f20c3e0243576ae8d0cfdf3594a5c94356591c3c7e0c2860e.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/69/69c49fb2b93908f38983d561a9e8be3aaf272f9743ee8ef826100d4db9066c7e.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/6c/6cd0b7978661f4485e0b5482c8dff51f4f6aacfc06dd0d973e1e92cc2dc6d8a8.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/6c/6cd4b8916dc30af184faddd3c2df9dbffded1dd2768fad376dbe13c20e2d580d.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/6d/6d92db531a0838b86fdc58cf598ffec4fb50e8e601d6a598ae3c7cbd41aabc88.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/6e/6ecba45ddbaa2aa06bfafa02f889b2e650f898a20548e350fe89a429d8aa92c3.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/6f/6fd54dab7f8a89c8be19c23868201abd69a549747effacec18616ec6d003cda9.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/70/70bd5e77a1cd785919c2826f2f083e9b88959c9d759d9719b6854b0c17fdd052.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/70/70e7b5b53992e9810d7c89cf1598ca981cbdf76f58edef4106e8f6129a691700.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/71/719b078c820e893eb6933ad2acb24f4e0e3154a08e9dd6b69d4f3fd9f8f6c8d8.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/72/72ad47bee8348e81157014afae761b3071d75a94c736b35b5166f8bda3017859.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/76/7622b466f3aafb18d5c676c691fc9a0c7f0c76836c5a2f99930b87587f4dfb58.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/76/76937570989ae864acaa267410141e155c135a595632f2a5abcb3abd77117393.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/76/76f656d7bcc3c301e4ae8b0b639a0ff7bb246819ecaaebebe076fb319558a366.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/78/78bf2ac5f347aaf7d727c5556040b071531c02b973cc1fa8bb405d98e04e6029.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/78/78cc6e7c421d1847d5810293fe5b1a1900b54767bb07fc86f4133c25c0c38677.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/78/78deaa32d03e3f3fe39a91cae900d913c32ecad34bfa0887a8ca6118b17908c0.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/7a/7a6bce37ed43fd0a443fd81446078be6a4b0c201ca17354d1edb7d187881631b.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/7d/7dcb870e4356f4236c4678d28284e00f78d9585cb6a1f44fdca1056142a542da.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/7e/7e9a9e9017645d5f2a9102cfb6199045b914c222a302b4e54b7efbefaa6065a2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/7f/7f9cbc7f9ce79d840562eb4eb5cfdf5c078df2f729811181606c3b5980429978.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/7f/7f9ccc748feb605883c5b260a6875ffb2b6a8013d7babb24b0b23dfa31341920.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/80/807967c675926591e689082bf4bdcb7a768885dfd66a908ec914b968178adb8c.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/81/81aea394a1aecc8cb63addc0f43f7c12568c5034ee345d33b14eed5ee2b32a51.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/81/81ee55ca2818220b504d897cb9b32295d891620d47a9f2994801daaf1dd80b95.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/85/852fa37a358a9a1a0e0eddfda45b425d2e87afd8fb4af522f4803b242d267951.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/85/85f0ec7838ff77b07a67564fc3f348fcfb8100bb502e8e248892fffd2dd4b78e.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/87/875156ee31a3f5d0631e88175b02db5957b53b0af502c9558f195590fc24a714.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/87/87a5b1ad72eab251090dec1479d2dca2c0d16012fc6a0e312271b0e92dd60aa5.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/88/88a8f9235c0c13d3b808e591e57bf3eeedee9e486d457bd09fae232d5db9c3dd.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/88/88b65314892eb39edfc80384d2833112ae2e14116eb4a3406cd5d2bc2ea34e5b.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/89/891fc368fffcecece96280515c945f68b9069db65dea2db3d7e8d8447ade6080.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/89/896eddfcb7c76e7052d4dc26b94f7dec006e83ed87ca581b34a31019f9467b69.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/8b/8b17865dddc3d2710be5f6949cb3e48f04b79f27fdf2bccc1297b925e3466e4c.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/8d/8de4d1d5bf02d87e1e780cc8fa1a9647f0fad2ff4df6a401e73e7d948ca06647.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/8e/8e71d5863eef1bcea258677492723a57caac7f3a0b015a823886ee256c3a6b6d.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/8e/8e827b797fcecc73c3d07cadb91112df1b5c6bb158a3091882de633a2c99cd8f.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/8f/8f15c8e24f4deba1f5b0256ddacd7402e7c2b4a86c7b8dfc53b98f924686e1cb.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/8f/8f7eb46797fefa7b42225d76d3cc75d086d9aba7deab54446e2477125e97eb37.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/90/9042087238942576a7e20cfbc540da2791b6ea2444905ebe0d90871a9cd81bcd.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/92/92c359d15dc4b7fe5215097e8c1ff05070ac7b3e603f7f8ae701183c415036fb.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/96/961f6b6b94f86d52c2c9d029677e376275bb92e19ab68fdbedd14b4b7141b833.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/96/96223124621130a91f4b6e0c91e3c15c37d8ab470cf69581259a977b14f29eec.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/96/9638dc7bbb3ae56a4a5cd3151ea836c14267f3ffa8c9f8fedf9509bf96b9aed7.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/96/967d735e7e97fd1ecc14a3d29beaa094d033f7f1f7540279009148921d40c923.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/9a/9aa90bcf5f543b0fddcdb9c3e27ae8da25f1a0ac5382b4ba6edfd463043cb201.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/9b/9b647aea05b3cfc56c636c76617ccbabccd9b97d5b3c364287ea8823e63110db.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/9c/9cc08b499b61f284cdfcaeb6b4a19ff5476d639b39f555ee94711e4d04dc8de2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/9e/9e890803cc4819692dd942347c31aa8436d5674f17ff00f5de4c93f31f2812fd.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/9f/9feadf241998b58ba59f2c106ee6bfd6107b4ec234d536e5f3f1b52c5d51fd15.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/a0/a02f131d5e83a63d58d5b2d2162c2f895f2a77c4d2e16d3ae5ec0f7fe776a20d.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/a0/a02f5ab0f96705843a854a2a7dba060a7fae6a123ca9ee9605387602e76d03df.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/a0/a0d68c4f1f2ee148d517959ec0d7a839849a439b76d31907cc5a0b76646248a3.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/a1/a15b35fcd295c98c7848fede6a28b62ad51392014b660706af9f8a3a08f860cb.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/a3/a33bf54a3a2ec5d040b9c4a4466e9348e749dff756a5de764e27449c6f2aec54.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/a3/a3717a25936cd2e19b6b8a5cb037e88972d18c6ce57a38093a2f3b949a191c01.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/a4/a47ad4c058579bfc9d210bcf87c8ddaae4b707e99b31e80f3464d59a98fba62a.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/a4/a48cc10d630e35c6f23183cd7c5257cbded184a0ce65b92063c33c852a16ace4.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/a4/a4d271c4f78a536b68e7be134cd19af58d87ab8dac936c20ecf8470d04e43a0c.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/a5/a583b430668643b07308348596200fa8b4dffe88ef4ef259f3a6eda16a389f51.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/a6/a6b423ea24d171bb7d5c9ca26588e90899b238477b1c6b11800503b57275d4ce.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/a9/a9365a44eb95d3865124b01e8471f0ee0e1a3106e7c4c7530e1a06e5ec6449d1.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/a9/a94f3c6e6642a90653fc696d5c949ecd96df646574374436833fd1eeeb2d69ed.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/a9/a97a4b4fe41992eb05ec4bdd724b38350eb1dff93c1f7152a15732a15674b78b.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/aa/aa40ba7bb0f3f19323c5bdf223fc1eb93a3809e7b7fd3d0e1b45b38acca60ef5.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/ae/ae631e24072c2f7acb5710db930942ef3171e067bfb5c59b96fcc112eb3d0ca2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/af/afb851627d8f93be660397955e12135fc49c4e3ceedecf8817c1e332e3be544b.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/b1/b117fb04dae86d541b8623a544009903746ceef43b68882cd794972f44147d8a.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/b3/b3599a457f68fe016b48ca38687585e4d8299a6b290723c4fa51b4a9efe61bec.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/b4/b44b18c040898a63565fe21929c0ec82fcba6cc7b6c08c759bdf9eca8975ad52.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/b4/b4f04e3460fa30a87e06b850c64b13de1768ad6335c80e7b3c27136553b6a253.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/b6/b661d56ca68e5a38a07269df62785fa07753b03482ac60c58df047c70317137f.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/b6/b6f526ef48a1355587b49e3c25de2d4ae0da0e9c014cb6ce13dff49b730ceb69.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/b7/b703629293b16036787c91232e977e8629fa5efb14ac252398ac0bf44b1f37bc.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/b9/b92e1ec9942b52a27e949c8a0b460b10b2a03bcda20e1dd02f0e32e54557530e.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/b9/b95ae26031807375098ab029eed00d0a1dd83b871765253953d12c3b802cb569.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/ba/bab9db88fc9c59013946bc3a0f1100f1dd758b39174d0c488891eb09bf031062.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/bc/bc3e14c7988b64cdad0ac5089e56da4d2cc7146460f133cbb58ab8a106aa442c.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/bd/bd7e8b6c5aa7a20b67780ce09322b031c97ff1d3b01e1718a27434e81ef8d19b.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/bd/bdeac18b621a6e6bd50b5a2a4e9237ac09309e4b615fdf542e398fae58d522e1.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/c0/c0b71969f5763ec72a6766d0bf0cc1edf7ef0ab58a0d1780cc3051a4c97cb458.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/c2/c20c765939e8fbd7f0d58bab6c6ce7d0c0c3270f94e6abd0f93e0a373758b804.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/c4/c4e355727178c8f5ffcac09b3a00f1731342e46d056799deb30a7430a1a1b078.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/c4/c4e9ff30c1b4fd1e3293622f871446764920c87e623c077f7e8f09cdc500318b.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/c5/c508b052b0797982db391e76dd95940558060f7da3c6e463dd10b27ab57899fa.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/c5/c552f2852e509df554f19b039342f9a673c158ee21fa53b239454389651f5d0c.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/c5/c55ecc5508c36f66f514ae38d4a1ca69f425ec6ed61fa9baf45dd607e3724154.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/c5/c5bb9f71224175e7ebe1a4502a5dcdfdb1a749710147d0398edd4e7c19246b14.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/c6/c64fbb09c5920dfd44868d2e7605c1e0a7c6dd8be8c176909e70dfdc2d6b2010.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/c6/c68029c23e4d4303babab4e4dd1967c513fe6e09ecab7f668fe2baaad990cf46.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/c6/c68c802271772efdaae12b80002ed867f4cd5ce1ddaef6e5ddb50e2b9e52a828.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/c7/c742fa3449778ef386d6a8390ad6808089d4ca3bda81af4d5fd45940520e34b9.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/c7/c76ee047488cb1ad8c6d911b99ec6a8534a58ef4c497f7289764500fc2423911.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/c7/c7a8b7ef5c78f96f19514596cabb108901bfe8e63e0fee659f6b066dd7ff8c48.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/c8/c8077182d8d4d9f238a2ec36216088da8602fe47c100161c6dfd868906ba85aa.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/c8/c8d67a24a5447f9583599e118bcfbe0a3956149300731216129ddcce8d2051c2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/c9/c94507fb4c792c8b519b963ab17d34167eabf6b3c10199aad5d26bf28e02d4e6.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/ca/ca3da20bbdc14c206f31bde8bca950122a9b6c4bef5e03f28e9d7c218ae03165.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/ca/ca5f7e29f80d8108dafb1f51fb6145045083f02a5edb6e1e2d764c84b1807b77.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/cache.admin.language.1538497867" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/cache.catalog.language.1538497875" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/cache.currency.1538496706" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/cache.length_class.2.1538496870" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/cache.product.popular.2.0.1.4.1538496904" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/cache.stock_status.2.1538496870" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/cache.store.1538497867" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/cache.tax_class.1538496870" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/cache.weight_class.2.1538496870" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/cd/cd089d747da84de596d539c4ae34903f3be7fac764da51a0d268eaa655d518b4.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/cd/cd27a8d598a945087107d17ba006ec6a677887191a98593189ac6dd15bffff98.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/ce/ce29f6678a60c0b3869be2124c00546900194b0f1768017fb51dda8ff45d49b6.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/ce/cedc2f44212b7392b58f94a9e186a27573a5a74018da8f05f5bed333ef901e1e.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/cf/cf061fc8f5b52b1f26c2b4ffecabdd5c03a164c58ea11669194d8b8fa9232caf.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/cf/cf9fa6b36e3fea5d7959431080fe7b7f4949462f50a11e0eaf5750db0bc52bab.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/d1/d142fd1bf6aa647d150682b9469d9924b0363136c0e16117185652bc9e24f121.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/d2/d2dbfee93f70256851211b54263210b7fb2b55be735908dbf7f1c03d309a70d0.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/d3/d382862d3146f66efdb58a596a6c5d40642a47ab37c89ddc810b3e1a72119287.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/d8/d879e5e32cb2a1b8a178e5dbb5ff65cbbd7f2f29d34d19d3ba67e07f1d886e9f.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/d9/d91f39d9fc7aafdf456f9f46aa92d6247a93b20630c7a33d01d07d990e6ab4b7.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/da/dad55549a0234bbd474aef196769238565af65026ef3d1a994e649e577deee6d.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/db/db44dedb49693476de15855e463bd2af7f40250db73df22e29242fb0ab92ba79.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/db/db94abcabc4f8801a9c93ac057b37479e2d0bf952927a07553779c5b07f3f3c1.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/dd/dd213ddbb584e55112b92260b7b641ce29bfe3fd3ec47cc25ca1874cdac5b79f.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/de/dec8cf4f8157eb73a363b91d03f55bb866336127e91b568816a6b5aa29db9b83.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/df/df6540a789179093ec6201ce88180cf1f145900b302cb96fe9a271faeea78cb7.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/df/df6a6bd01d0a75f63711e81f6e6a7f1ea1ca9f3f76565164ded5d78e5efb35e2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/e0/e0494a673c83c2e6680650e3e8d410ba86b24e52b1def233f1577aff361ac5ad.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/e0/e07d755655001553e45e4c843af7cc4b6d00fe01b6e78212f7c8370945d6f41d.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/e0/e099d421e79245f32e2177f9d615204d83b0ec630a9b893c04bb03eeb651303a.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/e1/e1385bfaa5bc6e0bd2566df45575fe7d7cb2788628743ee54c034daebdfadc35.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/e1/e18caedb43ee3d64ac7875b4486203f1bd67bd188c311af57b59d525492b9c51.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/e1/e19568ff1b60c4a2b330c104bdb1183ad76cf09ee91d63a7a177bfe283adf380.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/e3/e348b5ebff327932d86c81bf1d743d36ad49d6d899e5f33c6988fb6d24516530.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/e5/e5e287293ce7953f85c5a6897e2eaee1c4e00039e0723eccf60f02b2e6e6c10e.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/e7/e72f9bb357cad93f32c16fd64e86a00ac779088390e25cde6c09c13c3f60e895.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/e7/e77243f5f2f9bb509aa5fdc4011a31a1a54735a3f4638fabb8952a1e7b975ea2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/e9/e9d911b4fc19545b4a3bad7b30742b833b7959709ec062f365b251b5f433953d.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/ea/ea122fcaa0c86ce797339e3b8a38eccc8830380f8fea33432218e9f1e4f1bd53.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/ea/eaca64e8029d40fa6e60f2ea30d186b559e51df73f29c6968bf63fb3e120d727.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/eb/eb6428dd0cd8c2398a3276faadfef13bcb657181379cf6f12ff8113794561598.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/ec/ecfa394b702a6117c4b1e6b234c9f295763a0e1515efe407a37662d990b3854b.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/ed/ed8f2bb04a950b26037eef0488b9cc2fbde611d538226fdd781442e6d18e128c.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/ee/ee14bc0042160d607f51f9c394ba42db82faf7032bec96c002de0fe153d67ef4.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/ee/ee3b1a13375c008be73fcec7738638084bad112419f199ecb4210a110208733a.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/f1/f1563c4f4514816a0ff080909b965fd7aca4a14688bdaed0642c3496c6a2c69b.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/f1/f19f52c0da5e3ce911fd0a9c742f7a23049c020827a471975652b7782bc32d49.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/f4/f4c05ffaeb2a9eed27ca73d51413d38fe34ab4e0e1119a08346f3ccc134876c8.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/f7/f72be4dbad6c0a44efc923ffc5e4b1ade365d7f9292a53319feb1fc35be91394.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/f7/f7352fc0c0106e029955c15753b6de76d20e3e8ca291531fc4be2f7515619631.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/f7/f7c8ac56d5d504c35033f929b15ea21724d6576a54871f8d930b32690f450029.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/f8/f84fc8f7628b2162381a4caca4a6e2c4933887ccfad9bc7678d0b8c75cfa12e6.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/f9/f9065abe94351bd6a736d1e657b17f404d0296bf1e3df25fe1d8d2ca2e9fb657.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/fb/fb141f083f28f83384e0a6828ebc952699022e12bc7cb950a908c235163461fc.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/fb/fb93ba695df1c5f9c8973459c210f6dcd56ae82eef004a688e300a4570981e73.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/fc/fc2ec08c60f14d2c80ad20f06cb17c1ba99de5719ea06c441e9f9f61b4da9feb.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/fe/fe24d20ff6ee54640d8a682b6d64bddad431f9a31d314a1858c8452caa222267.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cache/ff/ff6cf246769e7c314cbf8f015401ebdcfb2775f87023592f15d74f5cee1d13c6.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/logs/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/storage/logs/error.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/upload/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/admin/view/stylesheet/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/upload/admin/view/stylesheet/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/admin/view/template/extension/soconfig/class/soconfig.php" beforeDir="false" afterPath="$PROJECT_DIR$/upload/admin/view/template/extension/soconfig/class/soconfig.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/catalog/controller/product/category.php" beforeDir="false" afterPath="$PROJECT_DIR$/upload/catalog/controller/product/category.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/catalog/language/vi-vn/common/cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/upload/catalog/language/vi-vn/common/cart.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/catalog/view/theme/so-megastore/template/header/header1.twig" beforeDir="false" afterPath="$PROJECT_DIR$/upload/catalog/view/theme/so-megastore/template/header/header1.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/catalog/model/extension/module/so_filter_shop_by.php" beforeDir="false" afterPath="$PROJECT_DIR$/upload/catalog/model/extension/module/so_filter_shop_by.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/catalog/view/theme/so-megastore/template/common/header.twig" beforeDir="false" afterPath="$PROJECT_DIR$/upload/catalog/view/theme/so-megastore/template/common/header.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/catalog/view/theme/so-megastore/template/common/home.twig" beforeDir="false" afterPath="$PROJECT_DIR$/upload/catalog/view/theme/so-megastore/template/common/home.twig" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -272,84 +15,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="soconfig.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/upload/admin/view/template/extension/soconfig/class/soconfig.php">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="so_filter_shop_by.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/upload/catalog/model/extension/module/so_filter_shop_by.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="219" column="13" selection-start-line="219" selection-start-column="13" selection-end-line="219" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cart.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/upload/catalog/language/vi-vn/common/cart.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="seo_url.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/upload/catalog/controller/startup/seo_url.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="seo_url.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/upload/catalog/controller/common/seo_url.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="34" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="category.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/upload/catalog/controller/product/category.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/upload/.htaccess">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="50" column="27" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/upload/config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header1.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/upload/catalog/view/theme/so-megastore/template/header/header1.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="56" column="31" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/upload/catalog/controller/common/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="63" column="25" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
+            <state relative-caret-position="-386">
+              <caret line="83" column="53" selection-start-line="83" selection-start-column="40" selection-end-line="83" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -377,6 +48,7 @@
       <find>btn-shopping-cart</find>
       <find>Xem chi</find>
       <find>elseif (isset($this-&gt;request-&gt;get['path']))</find>
+      <find>$manu_value_id</find>
     </findStrings>
     <replaceStrings>
       <replace>/supersoicamera/</replace>
@@ -401,19 +73,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/upload/index.php" />
-        <option value="$PROJECT_DIR$/upload/config.php" />
         <option value="$PROJECT_DIR$/upload/admin/config.php" />
         <option value="$PROJECT_DIR$/upload/catalog/view/theme/so-megastore/template/product/search.twig" />
         <option value="$PROJECT_DIR$/upload/catalog/model/extension/simple_blog/article.php" />
         <option value="$PROJECT_DIR$/upload/catalog/controller/extension/simple_blog/article.php" />
         <option value="$PROJECT_DIR$/upload/admin/language/vi-vn/setting/setting.php" />
         <option value="$PROJECT_DIR$/upload/catalog/controller/product/product.php" />
-        <option value="$PROJECT_DIR$/upload/system/engine/controller.php" />
         <option value="$PROJECT_DIR$/upload/catalog/view/theme/so-megastore/template/product/product.twig" />
         <option value="$PROJECT_DIR$/upload/admin/language/vi-vn/common/column_left.php" />
         <option value="$PROJECT_DIR$/upload/admin/view/template/extension/soconfig/class/soconfig.php" />
-        <option value="$PROJECT_DIR$/upload/catalog/controller/common/header.php" />
         <option value="$PROJECT_DIR$/upload/catalog/view/theme/so-megastore/template/header/header1.twig" />
         <option value="$PROJECT_DIR$/upload/catalog/language/vi-vn/common/cart.php" />
         <option value="$PROJECT_DIR$/upload/catalog/controller/common/seo_url_common_home.php" />
@@ -421,6 +89,15 @@
         <option value="$PROJECT_DIR$/upload/catalog/controller/startup/seo_url.php" />
         <option value="$PROJECT_DIR$/upload/catalog/controller/common/seo_url.php" />
         <option value="$PROJECT_DIR$/upload/catalog/controller/product/category.php" />
+        <option value="$PROJECT_DIR$/upload/config.php" />
+        <option value="$PROJECT_DIR$/upload/index.php" />
+        <option value="$PROJECT_DIR$/upload/catalog/controller/common/header.php" />
+        <option value="$PROJECT_DIR$/upload/system/engine/controller.php" />
+        <option value="$PROJECT_DIR$/upload/catalog/controller/common/home.php" />
+        <option value="$PROJECT_DIR$/upload/admin/index.php" />
+        <option value="$PROJECT_DIR$/upload/catalog/view/theme/so-megastore/template/common/home.twig" />
+        <option value="$PROJECT_DIR$/upload/catalog/view/theme/so-megastore/template/common/header.twig" />
+        <option value="$PROJECT_DIR$/upload/catalog/model/extension/module/so_filter_shop_by.php" />
       </list>
     </option>
   </component>
@@ -467,62 +144,24 @@
               <item name="supersoicamera" type="462c0819:PsiDirectoryNode" />
               <item name="upload" type="462c0819:PsiDirectoryNode" />
               <item name="catalog" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="supersoicamera" type="b2602c69:ProjectViewProjectNode" />
               <item name="supersoicamera" type="462c0819:PsiDirectoryNode" />
               <item name="upload" type="462c0819:PsiDirectoryNode" />
               <item name="catalog" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="extension" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="supersoicamera" type="b2602c69:ProjectViewProjectNode" />
               <item name="supersoicamera" type="462c0819:PsiDirectoryNode" />
               <item name="upload" type="462c0819:PsiDirectoryNode" />
               <item name="catalog" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="supersoicamera" type="b2602c69:ProjectViewProjectNode" />
-              <item name="supersoicamera" type="462c0819:PsiDirectoryNode" />
-              <item name="upload" type="462c0819:PsiDirectoryNode" />
-              <item name="catalog" type="462c0819:PsiDirectoryNode" />
-              <item name="language" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="supersoicamera" type="b2602c69:ProjectViewProjectNode" />
-              <item name="supersoicamera" type="462c0819:PsiDirectoryNode" />
-              <item name="upload" type="462c0819:PsiDirectoryNode" />
-              <item name="catalog" type="462c0819:PsiDirectoryNode" />
-              <item name="language" type="462c0819:PsiDirectoryNode" />
-              <item name="vi-vn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="supersoicamera" type="b2602c69:ProjectViewProjectNode" />
-              <item name="supersoicamera" type="462c0819:PsiDirectoryNode" />
-              <item name="upload" type="462c0819:PsiDirectoryNode" />
-              <item name="catalog" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="supersoicamera" type="b2602c69:ProjectViewProjectNode" />
-              <item name="supersoicamera" type="462c0819:PsiDirectoryNode" />
-              <item name="upload" type="462c0819:PsiDirectoryNode" />
-              <item name="catalog" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="theme" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="supersoicamera" type="b2602c69:ProjectViewProjectNode" />
-              <item name="supersoicamera" type="462c0819:PsiDirectoryNode" />
-              <item name="upload" type="462c0819:PsiDirectoryNode" />
-              <item name="catalog" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="theme" type="462c0819:PsiDirectoryNode" />
-              <item name="so-megastore" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="extension" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -536,6 +175,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\supersoicamera\upload\system\helper" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -564,28 +208,27 @@
       <workItem from="1538497739913" duration="826000" />
       <workItem from="1538499894451" duration="1354000" />
       <workItem from="1538579001091" duration="1751000" />
-      <workItem from="1538660682611" duration="5637000" />
+      <workItem from="1538660682611" duration="9050000" />
+      <workItem from="1538754344119" duration="1737000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11458000" />
+    <option name="totallyTimeSpent" value="16608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36845636" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16845638" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -594,6 +237,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32946298" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -603,6 +247,34 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/upload/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/catalog/controller/common/language.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/system/engine/controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/catalog/view/theme/so-megastore/template/common/home.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/upload/catalog/view/theme/so-megastore/template/product/product.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3760">
@@ -673,13 +345,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/upload/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/upload/system/storage/logs/error.log">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -701,11 +366,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/upload/system/storage/logs/index.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/catalog/view/theme/so-megastore/template/common/header.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2013" />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/upload/catalog/view/theme/so-megastore/template/common/search.twig">
       <provider selected="true" editor-type-id="text-editor" />
@@ -752,13 +412,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/upload/system/engine/controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/upload/admin/language/vi-vn/common/column_left.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="453">
@@ -773,24 +426,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/upload/catalog/controller/common/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="63" column="25" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/catalog/view/theme/so-megastore/template/header/header1.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="56" column="31" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/upload/admin/view/template/extension/soconfig/class/soconfig.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="219" column="13" selection-start-line="219" selection-start-column="13" selection-end-line="219" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/catalog/controller/common/seo_url_common_home.php" />
+    <entry file="file://$PROJECT_DIR$/upload/catalog/controller/product/category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7673">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/catalog/controller/startup/seo_url.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/catalog/controller/common/seo_url.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-660">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/system/config/catalog.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/system/helper/debug.php" />
+    <entry file="file://$PROJECT_DIR$/upload/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -801,45 +487,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/upload/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/catalog/controller/common/seo_url_common_home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1060">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="50" column="27" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/catalog/controller/startup/seo_url.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/catalog/controller/common/seo_url.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/catalog/controller/product/category.php">
+    <entry file="file://$PROJECT_DIR$/upload/catalog/controller/common/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/catalog/controller/common/language.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/system/engine/controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/catalog/controller/common/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/catalog/controller/extension/module/html.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/catalog/controller/extension/soconfig/cart.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/catalog/view/theme/so-megastore/template/common/home.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/catalog/view/theme/so-megastore/template/common/header.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/catalog/view/theme/so-megastore/template/header/header1.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="56" column="31" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/catalog/model/extension/module/so_filter_shop_by.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-386">
+          <caret line="83" column="53" selection-start-line="83" selection-start-column="40" selection-end-line="83" selection-end-column="53" />
         </state>
       </provider>
     </entry>
