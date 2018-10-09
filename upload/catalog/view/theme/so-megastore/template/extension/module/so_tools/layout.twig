@@ -16,6 +16,7 @@
 	{% if settings.show_recent_product %}
 	<a class="sticky-recent" data-target="popup" data-popup="#popup-recent"><span>{{ text_head_recent_view }}</span><i class="fa fa-recent"></i></a>
 	{% endif %}
+	<a class="sticky-recent" href="/product/compare"><span>{{ text_head_compare }}</span><i class="fa fa-exchange"></i></a>
 	{% if settings.show_backtop %}
 	<a class="sticky-backtop" data-target="scroll" data-scroll="html"><span>{{ text_head_gotop }}</span><i class="fa fa-angle-double-up"></i></a>
 	{% endif %}
@@ -151,7 +152,7 @@
 									</div>
 								{% endif %}
 							</div>
-						</div>			
+						</div>
 					</div>
 				</div>
 			</div>
@@ -183,7 +184,7 @@
 														{% else %}
 															<option value="{{ currency.code }}" {% if code == currency.code %} {{ 'selected="selected"' }} {% endif %}>{{ currency.symbol_right }} {{ currency.title }}</option>
 														{% endif %}
-													{% endfor %}					
+													{% endfor %}
 												</select>
 												<input type="hidden" name="code" value="">
 												<input type="hidden" name="redirect" value="{{ redirect_currency }}">
@@ -264,7 +265,7 @@
 								</div>
 							</div>
 							<div class="clear"></div>
-						</div>					
+						</div>
 					</div>
 				</div>
 			</div>

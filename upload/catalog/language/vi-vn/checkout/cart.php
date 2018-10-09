@@ -8,7 +8,7 @@ $_['text_remove']            = 'Thành công: Bạn đã sửa đổi giỏ hàn
 $_['text_login']             = 'Lưu ý: Bạn phải <a href="%s">đăng nhập</a> hoặc <a href="%s">đăng kí thành viên</a> để xem giá!';
 $_['text_items']       = '%s sản phẩm - %s';
 $_['text_points']              = 'Điểm thưởng: %s';
-$_['text_next']                = 'bạn thích làm gì tiếp theo?';
+$_['text_next']                = 'Áp dụng mã khuyến mại?';
 $_['text_next_choice']         = 'Chọn nếu bạn có mã giảm giá hoặc điểm thưởng mà bạn muốn sử dụng hoặc muốn ước tính chi phí giao hàng.';
 $_['text_empty']               = 'Giỏ hàng của bạn đang trống!';
 $_['text_day']                 = 'Ngày';
@@ -24,6 +24,7 @@ $_['text_payment_recurring']   = 'Hồ sơ thanh toán';
 $_['text_trial_description']   = '%s every %d %s(s) for %d payment(s) then';
 $_['text_payment_description'] = '%s every %d %s(s) for %d payment(s)';
 $_['text_payment_cancel']      = '%s every %d %s(s) until canceled';
+$_['text_product']          = 'Sản phẩm';
 
 // Column
 $_['column_image']           = 'Hình ảnh';
@@ -35,7 +36,7 @@ $_['column_total']           = 'Tổng cộng';;
 
 // Error
 $_['error_stock']            = 'Sản phẩm đánh dấu *** không có đủ số lượng trong kho!';
-$_['error_minimum']          = 'Số lượng đặt tối thiểu cho %s là %s!';	
-$_['error_required']         = '%s không được bỏ trống!';	
-$_['error_product']          = 'Cảnh báo: Không có sản phẩm trong giỏ hàng của bạn!';	
+$_['error_minimum']          = 'Số lượng đặt tối thiểu cho %s là %s!';
+$_['error_required']         = '%s không được bỏ trống!';
+$_['error_product']          = 'Cảnh báo: Không có sản phẩm trong giỏ hàng của bạn!';
 $_['error_recurring_required'] = 'Vui lòng chọn một khoản thanh toán định kỳ!';

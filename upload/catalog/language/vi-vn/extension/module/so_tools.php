@@ -19,6 +19,7 @@ $_['text_head_cart']        = 'Giỏ hàng';
 $_['text_head_account']     = 'Tài khoản';
 $_['text_head_search']      = 'Tìm kiếm';
 $_['text_head_recent_view'] = 'Xem gần đây';
+$_['text_head_compare']     = 'So sánh';
 $_['text_head_gotop']       = 'Về đầu trang';
 $_['text_empty']            = 'Giỏ hàng của bạn đang trống!';
 $_['text_no_content']       = 'Không có nội dung để hiển thị !';

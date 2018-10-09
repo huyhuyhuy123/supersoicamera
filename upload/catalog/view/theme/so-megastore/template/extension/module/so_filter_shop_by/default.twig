@@ -8,7 +8,7 @@
 			{% if disp_search_text and products_arr_id != "" %}
 				{{ include (theme_config~"/template/extension/module/so_filter_shop_by/default_search.twig") }}
 			{% endif %}
-			
+
 			{% if disp_subcategory and subcategory_all != "" and subcategory_all|length > 0 and products_arr_id != "" %}
 				{{ include (theme_config~"/template/extension/module/so_filter_shop_by/default_subcategory.twig") }}
 			{% endif %}
@@ -43,7 +43,8 @@
 					{% endif %}
 				{% endfor %}
 			{% endif %}
-
+            {% set maxPrice = 120000000 %}
+            {% set maxPrice_new = 120000000 %}
 			{% if disp_pro_price and (minPrice != 0 or maxPrice != 0) and (minPrice != maxPrice) %}
 				{{ include (theme_config~"/template/extension/module/so_filter_shop_by/default_product_price.twig") }}
 			{% endif %}
@@ -62,7 +63,7 @@
 //<![CDATA[
 jQuery(window).load(function($){
 	$ = typeof($ !== 'funtion') ? jQuery : $;
-	
+
 	var obj_class 			= $('{{ in_class }}').find('.product-layout').parent(),
 		product_arr_all 	= $(".so_filter_wrap .modcontent ul").attr("data-product_id"),
 		opt_value_id		= "{{ opt_id }}",
@@ -75,7 +76,7 @@ jQuery(window).load(function($){
 		$maxPrice_new 		= {{ maxPrice_new }},
 		url 				= '{{ url }}';
 		text_search			= "{{ text_search }}";
-	
+
 	obj_class.addClass('so-filter-gird');
 	$load_gif = $('.so-filter-gird');
 	$(".so-filter-heading").on("click",function(){
@@ -271,7 +272,7 @@ jQuery(window).load(function($){
 
 	function getCountProduct(){
 		var product_tmp = $(".so_filter_wrap .modcontent ul").attr("data-product_id");
-		
+
 		product_arr = product_tmp.split(',');
 		if(product_arr == ''){
 			$('.so-filter-option').each(function(){
@@ -362,7 +363,7 @@ jQuery(window).load(function($){
 			updateURL();
 			requestAjax();
 		});
-	
+
 		range.noUiSlider.on('end', function( values, handle ) {
 			if ( handle ) {
 				$maxPrice_new = values[handle];
@@ -394,7 +395,7 @@ jQuery(window).load(function($){
 			updateURL();
 			requestAjax();
 		});
-	
+
 		$('.content_min_max .input_min').change(function(){
 			var valueMin = $(this).val();
 			var maxPrice__ = getUrlVars()["maxPrice"];
@@ -524,7 +525,7 @@ jQuery(window).load(function($){
 			if(($minPrice != 0 || $maxPrice != 0) && ($minPrice != $maxPrice)){
 				range.noUiSlider.set([$minPrice, $maxPrice]);
 			}
-			
+
 			$(".so-filter-option").removeClass("opt_active");
 			$(".so-filter-option").find('.fa-check-square-o').removeClass('fa-check-square-o').addClass('fa-square-o');
 			$(".so-filter-option").find(".option-count").removeClass("opt_close");
@@ -537,7 +538,7 @@ jQuery(window).load(function($){
 			location.href= url;
 		});
 	{% endif %}
-	
+
 	function requestAjax(){
 		var page = (getUrlVars()["page"] === "undefined" ? "1" : getUrlVars()["page"]);
 		$.ajax({

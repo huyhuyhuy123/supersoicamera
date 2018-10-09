@@ -3,72 +3,72 @@
 
 // Quickview
 $_['button_detail'] 		  		= 'Chi tiết';
-$_['text_overview']  = 'OverView';
-$_['text_category_stock_quantity']  = 'Hurry! only %s item(s) left!';
+$_['text_overview']  = 'Tổng quan sản phẩm';
+$_['text_category_stock_quantity']  = 'Nhanh! chỉ còn %s sản phẩm!';
 
 // Home page
-$_['text_more'] 			  		= 'More';
-$_['text_shop']  			  		= 'Shopping now';
-$_['text_shop_cart']		 		= 'My cart';
+$_['text_more'] 			  		= 'Nhiều hơn';
+$_['text_shop']  			  		= 'Mua sắm ngay';
+$_['text_shop_cart']		 		= 'Giỏ hàng';
 $_['text_items_miss']        		= '%s';
-$_['text_items']              		= '<span class="number">%s</span> <span class="text">item(s)</span> - <span class="number_2">%s</span>';
-$_['text_contact']      	  		= 'Contact';
+$_['text_items']              		= '<span class="number">%s</span> <span class="text">sản phẩm</span> - <span class="number_2">%s</span>';
+$_['text_contact']      	  		= 'Liên hệ';
 $_['text_menu']  		 	  		= 'Menu';
-$_['text_item_1']             		= 'There are ';
-$_['text_item_2']             		= ' in your cart';
-$_['text_item_3']            		 = ' item(s)';
+$_['text_item_1']             		= 'Có ';
+$_['text_item_2']             		= ' trong giỏ hàng';
+$_['text_item_3']            		 = ' sản phẩm';
 
-$_['text_backtotop']          		= ' Back To Top ';
-$_['text_sub']                		= ' ALL NEWS OF OUR HURAMA	';
-$_['text_stock']              		= ' Stock ';
-$_['text_stock1']             		= ' Stock1 ';
-$_['text_price_old']          		= ' Price Old ';
-$_['text_price_save']        	 	= ' Price Save ';
-$_['text_price_sale']         		= ' Price Sale ';
-$_['text_viewdeals']          		= ' View Deals ';
-$_['text_instock']            		= ' Instock ';
-$_['text_show_cate']          		= ' Show All Categories ';
-$_['button_quickview']        		= 'Add to Quickview';
-$_['text_hotline']       	  		= 'Hot Line';
-$_['text_compare']       	  		= 'Compare';
+$_['text_backtotop']          		= ' Quay lại đầu trang ';
+$_['text_sub']                		= ' Tất cả tin tức	';
+$_['text_stock']              		= ' Tình trạng ';
+$_['text_stock1']             		= ' Tình trạng ';
+$_['text_price_old']          		= ' Giá cũ ';
+$_['text_price_save']        	 	= ' Tiết kiệm ';
+$_['text_price_sale']         		= ' Giá bán ';
+$_['text_viewdeals']          		= ' Xem ưu đãi ';
+$_['text_instock']            		= ' Trong kho ';
+$_['text_show_cate']          		= ' Hiển thị toàn bộ danh mục ';
+$_['button_quickview']        		= 'Thêm vào xem nhanh';
+$_['text_hotline']       	  		= 'Đường dây nóng';
+$_['text_compare']       	  		= 'So sánh';
 $_['text_sidebar']       	  		= 'Sidebar';
-$_['text_gridview']       	  		= 'Grid View:';
+$_['text_gridview']       	  		= 'Hiển thị:';
 
-$_['text_neo1']       = 'Tags Trend';
-$_['text_neo2']       = 'Flash Sale';
-$_['text_neo3']       = 'Fashion';
-$_['text_neo4']       = 'Technology';
-$_['text_neo5']       = 'Furniture';
+$_['text_neo1']       = 'Xu hướng';
+$_['text_neo2']       = 'Bán nhanh';
+$_['text_neo3']       = 'Mốt';
+$_['text_neo4']       = 'Công nghệ';
+$_['text_neo5']       = 'Nội thất';
 
 
 // Category page
-$_['text_refine_more'] 				  		= 'More';
-$_['text_refine_less'] 				  		= 'Less';
-$_['text_product_orders'] 				  	= 'Orders (%s)';
+$_['text_refine_more'] 				  		= 'Nhiều hơn';
+$_['text_refine_less'] 				  		= 'Ít hơn';
+$_['text_product_orders'] 				  	= 'Đơn đặt hàng (%s)';
 $_['text_product_orders_detail'] 				  	= '<span>Orders </span> <span class="number"> (%s)  </span>';
 $_['text_reviews']             = '(%s)';
 
-$_['text_viewdeals']  		  		= 'View All Deals';
-$_['text_new'] 				  		= 'New';
-$_['text_sale'] 				  	= 'Sale';
-$_['text_quickview'] 				= 'Quickview';
-$_['text_labelDay'] 				= 'Day%!d';
-$_['text_labelHour'] 				= 'Hour%!H';
-$_['text_labelMin'] 				= 'Min';
-$_['text_labelSec'] 				= 'Sec';
+$_['text_viewdeals']  		  		= 'Xem toàn bộ ưu đãi';
+$_['text_new'] 				  		= 'Mới';
+$_['text_sale'] 				  	= 'Giảm giá';
+$_['text_quickview'] 				= 'Xem nhanh';
+$_['text_labelDay'] 				= 'Ngày%!d';
+$_['text_labelHour'] 				= 'Giờ%!H';
+$_['text_labelMin'] 				= 'Phút';
+$_['text_labelSec'] 				= 'Giây';
 
-$_['text_upsell'] 				  	= 'Upsell products';
+$_['text_upsell'] 				  	= 'Sản phẩm';
 
 // Product page
-$_['text_sharethis']  		  = 'Share This';
+$_['text_sharethis']  		  = 'Chia sẻ';
 
 $_['text_sidebar']        = 'Sidebar';
 $_['text_size_chart']        = 'Size Chart';
 $_['tab_video']        = 'Video';
-$_['tab_shipping']        = 'Shipping Methods';
+$_['tab_shipping']        = 'Chính sách vận chuyển';
 $_['text_product_specifics']        = 'Item specifics';
-$_['text_product_description']        = 'Product Description';
-$_['text_or']        = 'or';
+$_['text_product_description']        = 'Mô tả sản phẩm';
+$_['text_or']        = 'hoặc';
 
-$_['show_more']       = 'Show More';
-$_['show_less']       = 'Show Less';
+$_['show_more']       = 'Hiển thị thêm';
+$_['show_less']       = 'Ẩn bớt đi';

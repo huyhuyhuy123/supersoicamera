@@ -50,9 +50,11 @@ RewriteRule ^product/compare$ index.php?route=product/compare [L]
 RewriteRule ^product/manufacturer$ index.php?route=product/manufacturer [L]
 RewriteRule ^product/search$ index.php?route=product/search [L]
 RewriteRule ^product/special$ index.php?route=product/special [L]
+RewriteRule ^product/compare$ index.php?route=product/compare [L]
 RewriteRule ^account/return/add$ index.php?route=account/return/add [L]
 RewriteRule ^affiliate/login$ index.php?route=affiliate/login [L]
 RewriteRule ^quickcheckout/checkout$ index.php?route=quickcheckout/checkout [L]
+RewriteRule ^fb_login$ index.php?route=extension/module/so_sociallogin/FacebookLogin [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_URI} !.*\.(ico|gif|jpg|jpeg|png|js|css)

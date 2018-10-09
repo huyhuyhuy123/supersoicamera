@@ -12,6 +12,7 @@ $_['text_exists']            = 'SMột số mặt hàng đã được liệt kê
 $_['text_items']             = '%s';
 $_['text_compare']   	   	 = 'So sánh (%s)';
 $_['text_failure']           = 'Thất bại';
+$_['text_empty']        = 'Bạn chưa chọn sản phẩm nào để so sánh.';
 // Error
 $_['error_required']         = '%s là bắt buộc!';
 
